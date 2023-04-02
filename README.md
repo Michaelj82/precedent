@@ -3,3 +3,5 @@ Only working w/ supreme court cases
 
 
 Currently working on collecting a dataset of these decisions through the govinfo API. Don't know if possible yet but working on it
+
+After making dataset will do the ML and data analysis
