@@ -1,8 +1,5 @@
-Working on a project which a user will give a query for a case that involves certain ideas, and it will return a case that set precedent for that.
-Only working w/ federal court cases
+Project which a user will give a query for a case that involves certain ideas, and it will return a case that set precedent for that.
 
+Due to the nature of my capacities, only takes Federal Court cases from Jan 1, 2022 to April 7, 2023.
+Theoretically, if the dates and qualifications were changed, you could adjust the code to select decades worth of cases in specific court areas. 
 
-Currently working on collecting a dataset of these decisions through the govinfo API. 
-Have an issue w/ zip files, currently adjusting. Need to re-do, might be an issue with accessing pdf pages
-
-After making dataset will do the ML and data analysis
